@@ -40,3 +40,6 @@ output/
 study01/.venv
 
 .env
+fastapi_server/venv/
+auto-caption-project/.venv/
+node_modules/
